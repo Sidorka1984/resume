@@ -34,10 +34,9 @@ export const Link = styled.a`
     padding: 10px;
     text-align: center;
     margin-left: 10px;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 12px;
-    line-height: 1.3;
-    letter-spacing: 0.01em;
+    line-height: 1.1;
     text-transform: uppercase;
     cursor: pointer;
     transition: all 250ms var(--timingFn);
