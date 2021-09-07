@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "HellEN",
+    "link": "https://annaizhovska.github.io/parcel-project-template/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://dmitriy-snitko.github.io/project_group_10/",
+    "tech": "HTML5, Sass, JavaScript, Axios, Parcel"
+  }
+]

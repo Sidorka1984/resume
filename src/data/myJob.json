@@ -1,0 +1,40 @@
+[
+   {
+    "id": "id-1",
+    "profession": "computer operator",
+    "company": "LLC Sandora",
+    "time": "May 2005 - february 2008",
+    "country": "Ukraine",
+    "functionals": [
+      {
+        "id": "1",
+        "functional": "Registration of applications of clients in 1C."
+      },
+      {
+        "id": "2",
+        "functional": "Preparation of client's documents."
+      }
+    ]
+  },
+  {
+    "id": "id-2",
+    "profession": "bookkeeper-cashier",
+    "company": "Pepsico Ukraine",
+    "time": "February 2008 - for now",
+    "country": "Ukraine",
+    "functionals": [
+      {
+        "id": "1",
+        "functional": "Cash transactions."
+      },
+      {
+        "id": "2",
+        "functional": "Accounting for receivables clients."
+      },
+      {
+        "id": "3",
+        "functional": "Data analysis in Excel."
+      }
+    ]
+  }
+]

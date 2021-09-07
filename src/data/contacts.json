@@ -1,0 +1,23 @@
+[
+  {
+    "id": "id-1",
+    "label": "Phone",
+    "icon": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/Mobile-3-icon.png",
+    "link": "tel:38050704517",
+    "text": "+38 050 730 45 17"
+  },
+  {
+    "id": "id-2",
+    "label": "E-mail",
+    "icon": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png",
+    "link": "mailto:sidorka.olka@gmail.com",
+    "text": "sidorka.olka7@gmail.com"
+  },
+  {
+    "id": "id-4",
+    "label": "Git Hub",
+    "icon": "https://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-github-icon.png",
+    "link": "https://github.com/Sidorka1984",
+    "text": "GitHub"
+  }
+]

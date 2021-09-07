@@ -1,0 +1,16 @@
+[
+  {
+  "id": "id-1",
+  "university": "Rivne Higher Vocational School №1",
+  "label": "Operator from computer ",
+  "time": "Septermber 2001 - January 2002",
+  "experience": null
+},
+  {
+    "id": "id-2",
+    "university": "Rivne State University for the Humanities",
+    "label": "Mathematics and economics",
+    "time": "Septermber 2003 - January 2008",
+    "experience": null
+  }
+]

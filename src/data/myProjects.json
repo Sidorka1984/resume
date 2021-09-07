@@ -1,0 +1,26 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://sidorka1984.github.io/goit-markup-hw-08/",
+    "tech": "HTML5, Sass"
+  },
+  {
+    "id": "id-2",
+    "label": "Image Finder",
+    "link": "https://sidorka1984.github.io/goit-react-hw-03-image-finder/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-3",
+    "label": "Movies",
+    "link": "https://olga-sid-04-movies.netlify.app/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-4",
+    "label": "Phonebook",
+    "link": "https://olga-sid-phonebook-app.netlify.app/login",
+    "tech": "React.js, Redux"
+  }
+]
