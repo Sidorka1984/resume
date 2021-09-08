@@ -10,14 +10,21 @@
     "id": "id-2",
     "label": "E-mail",
     "icon": "https://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png",
-    "link": "mailto:sidorka.olka@gmail.com",
-    "text": "sidorka.olka7@gmail.com"
+    "link": "ulyanchuk.olga@gmail.com",
+    "text": "ulyanchuk.olga@gmail.com"
   },
   {
-    "id": "id-4",
+    "id": "id-3",
     "label": "Git Hub",
     "icon": "https://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-github-icon.png",
     "link": "https://github.com/Sidorka1984",
     "text": "GitHub"
-  }
+  },
+   {
+   "id": "id-4",
+   "label": "LinkedIn",
+   "icon": "https://icons.iconarchive.com/icons/designbolts/cute-social-2014/256/Linkedin-icon.png",
+   "link": "https://www.linkedin.com/in/olga-ulyanchuk-75a477220/",
+   "text": "LinkedIn"
+ }
 ]
