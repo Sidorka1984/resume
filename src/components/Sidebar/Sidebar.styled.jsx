@@ -28,7 +28,7 @@ export const Title = styled.h3`
 export const Link = styled.a`
     display: flex;
     align-items: center;
-    justify-content: center;
+    ${'' /* justify-content: center; */}
     min-width: 220px;
     height: 50px;
     padding: 10px;
